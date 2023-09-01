@@ -1,0 +1,84 @@
+@import url("styles/header.css");
+:root {
+    --cor-de-fundo: #EBECEE;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+h1{
+    background-color: #f6eed7;
+}
+.loguinho{
+    background-color: #780912;
+}
+
+
+
+
+
+
+
+.cabeçario-1{
+    
+    background-color: #780912;
+    
+}
+.logo-divi{
+    width: 24px;
+}
+.cabeçario-pricipal{
+    width: 10%;
+
+}
+.cabeçario-2{
+
+    background-color: #f6eed7;
+    color: #000116;
+    padding: 20px 0;
+    font-size: 25px;
+    justify-content: space-around;
+    display: flex;
+}
+.intem{
+    margin: 0 16px;
+    display: inline-block;
+}
+.vindas{
+    background-color: #eff4f7;
+    padding: 52px 0;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.vindas-div{
+    width: 60%;
+}
+.titulolagal{
+    padding: 30px 0;
+}
+
+.lala-lu{
+    width: 78%;
+}
+.começo{
+    background-color: #d7e0e2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.href {
+    text-decoration: none;
+    color: #000116;
+   
+}
+.imagemm {
+    justify-content: center;
+    align-items: center;
+
+}
